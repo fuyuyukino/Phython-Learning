@@ -1,4 +1,4 @@
-#Define the discount for Senior age using Boolean
+2#Define the discount for Senior age using Boolean
 Age = int(input("What's your age? "))
 is_member = True
 
